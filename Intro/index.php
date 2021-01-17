@@ -5,6 +5,7 @@
      <meta charset="utf-8">
  </head>
 <body>
+<?php include_once('../menu.php'); ?>
 
 <!-- commento <?php print_r($_SERVER)?> -->
 
