@@ -1,3 +1,5 @@
+<?php include_once('../menu.php'); include_once('sottomenu.php'); ?>
+
 <?php
   /**
    * Le variabili in php cominciano con dollaro ($) 

@@ -1,3 +1,5 @@
+<?php include_once('../menu.php'); include_once('sottomenu.php'); ?>
+
 <?php
   /**
    * Il cast delle variabili è automatico

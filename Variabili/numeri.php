@@ -1,3 +1,5 @@
+<?php include_once('../menu.php'); include_once('sottomenu.php'); ?>
+
 <?php
   $dec = 255; // TRUE , True , 1 , altro
   var_dump($dec);
