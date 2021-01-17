@@ -3,4 +3,5 @@
 &emsp;
 <a href="../Variabili">Variabili</a>
 &emsp;
+<a href="../Operatori">Operatori</a>
 </h2>
