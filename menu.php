@@ -3,7 +3,7 @@
 &emsp;
 <a href="../Variabili">Variabili</a>
 &emsp;
-<a href="../Operatori">Operatori</a>
+<a href="../operatori">Operatori</a>
 &emsp;
 <a href="../controllo">Stutture di controllo</a>
 &emsp;

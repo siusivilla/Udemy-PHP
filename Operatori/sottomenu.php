@@ -3,6 +3,8 @@
 &emsp;
 <a href="confronto.php">confronto</a>
 &emsp;
+<a href="numeri-stringhe.php">numeri e stringhe</a>
+&emsp;
 <a href="spaceship.php">spaceship</a>
 &emsp;
 <a href="null-coalescing.php">null coalescing</a>
