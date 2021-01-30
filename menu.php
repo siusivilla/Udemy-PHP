@@ -1,5 +1,5 @@
 <h2>
-<a href="../Intro">Introduzione</a>
+<a href="../intro">Introduzione</a>
 &emsp;
 <a href="../Variabili">Variabili</a>
 &emsp;

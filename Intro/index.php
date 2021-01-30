@@ -5,7 +5,7 @@
      <meta charset="utf-8">
  </head>
 <body>
-<?php include_once('../menu.php'); ?>
+<?php include_once('../menu.php'); include_once('sottomenu.php'); ?>
 
 <!-- commento <?php print_r($_SERVER)?> -->
 
