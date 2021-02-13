@@ -8,4 +8,6 @@
 <a href="../controllo">Stutture di controllo</a>
 &emsp;
 <a href="../esistenza">Esistenza della variabile</a>
+&emsp;
+<a href="../funzioni">Funzioni</a>
 </h2>
