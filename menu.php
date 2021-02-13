@@ -1,7 +1,7 @@
 <h2>
 <a href="../intro">Introduzione</a>
 &emsp;
-<a href="../Variabili">Variabili</a>
+<a href="../variabili">Variabili</a>
 &emsp;
 <a href="../operatori">Operatori</a>
 &emsp;

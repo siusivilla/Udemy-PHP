@@ -1,5 +1,5 @@
 <h3>
-<a href="index.php">Variabili</a>
+<a href="index.php">variabili</a>
 &emsp;
 <a href="boolean.php">Boolean</a>
 &emsp;
